@@ -26,19 +26,35 @@ The data was cleaned using power query editor. The null values were replaced wit
 You can interact with the visualization (here) https://app.powerbi.com/view?r=eyJrIjoiZTUyNTlhM2QtOGIwNy00MjljLTg0MjktYTQ1MDhhZTAxNjhiIiwidCI6ImUyODE5OGNhLTExOWQtNDhmOC1iYzBlLTczMzIxYTM4YzJlMyJ9
 
 ## Malaria Dashboard
-![](malaria_only.png)
+![](Malaria.png)
+---
+
+
+### Tooltip
+The tooltip is a hidden page, but can be activated when you hover on the Total No of Malaria cases by year line chart
+
+![](tooltip.png)
+---
+
 
 ## Prevention Dashboard
 ![](Prevention.png)
+---
+
 
 ## Basic Amenities
-![](basic_amenities.png)
+![](Basic_amenities.png)
+---
+
 
 ## Map
-![](mal_map.png)
+![](Mal_map.png)
+---
 
 ## Advanced Analysis
-![](advance_analysis.png)
+![](Advance_analysis.png)
+---
+
 
 ## Insights and Recommendations
 
