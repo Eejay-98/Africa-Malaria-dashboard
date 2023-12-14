@@ -65,6 +65,7 @@ The tooltip is a hidden page, but can be activated when you hover on the Total N
 5.	Improve access to basic amenities: Access to basic amenities will go a long way in curbing the incidence of malaria. Not only about access, but also illustrating creating awareness as to the effectiveness of maintaining a healthy lifestyle and clean environment will reduce the disease burden.
 
 ![](thank_you.jpg)
+---
 
 
 
